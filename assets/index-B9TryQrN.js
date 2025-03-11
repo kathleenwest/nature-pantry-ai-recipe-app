@@ -11944,7 +11944,7 @@ function Footer() {
     ] })
   ] });
 }
-const squirrelLogo = "/assets/squirrel-logo-Cb1bOaXu.png";
+const squirrelLogo = "assets/squirrel-logo-Cb1bOaXu.png";
 function Header() {
   return /* @__PURE__ */ jsxRuntimeExports.jsxs("header", { children: [
     /* @__PURE__ */ jsxRuntimeExports.jsx("img", { src: squirrelLogo }),
